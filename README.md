@@ -22,7 +22,7 @@ Movie recommendation file contains:
 # Music recommendations
 ## About Dataset
 Dataset Link - https://www.kaggle.com/datasets/notshrirang/spotify-million-song-dataset
-
+This data set contains information about 57650 rows × 4 columns but we took 10000 rows × 4 columns.
 This is Spotify Million Song Dataset. This dataset contains song names, artists names, link to the song and lyrics. This dataset can be used for recommending songs.
 
 Musics recommendation file contains:
